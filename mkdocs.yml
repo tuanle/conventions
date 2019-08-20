@@ -1,1 +1,27 @@
-site_name: My Docs
+site_name: Conventions
+
+nav:
+- Home: 'index.md'
+- RFC 2119: 'rfc_2119.md'
+- PHP:
+  - 'PSR-1 Basic Coding Standard': 'php/01_PSR_1_basic_coding_standard.md'
+  - 'PSR-2 Coding Style Guide': 'php/02_PSR_2_coding_style_guide.md'
+- Laravel:
+  - 'Folder Structure': 'laravel/index.md'
+
+theme:
+  name: material
+
+markdown_extensions:
+  - toc:
+      permalink: '#'
+  - attr_list
+  - admonition
+  - tables
+  - codehilite
+
+extra_css:
+  - css/extra.css
+
+plugins:
+  - search
