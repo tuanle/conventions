@@ -11,6 +11,8 @@ nav:
   - 'PSR-4 Autoloader': 'php/04_PSR_4_autoloader.md'
 - Laravel:
   - 'Folder Structure': 'laravel/index.md'
+- GIT:
+  - 'Git Branching Model': 'git/01_git_branching_model.md'
 
 theme:
   name: null
