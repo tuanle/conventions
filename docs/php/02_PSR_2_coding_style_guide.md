@@ -1,6 +1,6 @@
 # PSR-2 Coding Style Guide
 
-[Tài liệu gốc](http://www.php-fig.org/psr/psr-2/)
+[Tài liệu tham khảo](http://www.php-fig.org/psr/psr-2/)
 
 Tài liệu này mở rộng từ tài liệu [PSR-1](01_PSR_1_basic_coding_standard.md) (basic coding standard).
 

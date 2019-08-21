@@ -8,6 +8,7 @@ nav:
 - PHP:
   - 'PSR-1 Basic Coding Standard': 'php/01_PSR_1_basic_coding_standard.md'
   - 'PSR-2 Coding Style Guide': 'php/02_PSR_2_coding_style_guide.md'
+  - 'PSR-4 Autoloader': 'php/04_PSR_4_autoloader.md'
 - Laravel:
   - 'Folder Structure': 'laravel/index.md'
 
