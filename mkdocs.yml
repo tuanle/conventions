@@ -1,4 +1,6 @@
-site_name: Conventions
+site_name: Convention
+site_author: Tuan Le
+copyright: 'Tuan Le - 2019'
 
 nav:
 - Home: 'index.md'
@@ -10,7 +12,20 @@ nav:
   - 'Folder Structure': 'laravel/index.md'
 
 theme:
-  name: material
+  name: null
+  custom_dir: material/
+  language: vi
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+  logo:
+    icon: "\uE80C"
 
 markdown_extensions:
   - toc:
